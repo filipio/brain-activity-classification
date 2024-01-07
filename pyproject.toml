@@ -10,6 +10,9 @@ packages = [{include = "brain_activity_classification"}]
 python = "^3.10"
 nilearn = "^0.10.2"
 jupyter = "^1.0.0"
+tsfresh = "^0.20.1"
+lightgbm = "^4.2.0"
+seaborn = "^0.13.1"
 
 
 [build-system]
